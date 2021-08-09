@@ -124,13 +124,13 @@
       }
       
       /* media query used here */
-      @media only screen and (max-width: 300px) {
+      @media only screen and (max-width: 290px) {
         .box {
           flex-basis: 100%;
         }
       }
       
-      @media only screen and (max-width:500px) {
+      @media only screen and (max-width:480px) {
         .box {
           flex-basis: 40%;
         }
